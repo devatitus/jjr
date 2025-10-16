@@ -1,0 +1,95 @@
+.bill-container {
+  overflow-x: auto;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+  background: rgb(235, 232, 220);
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bill-header {
+  text-align: center;
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+.bill-header h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.search-bar {
+  width: 90%;
+  max-width: 500px;
+  text-align: center;
+}
+
+.bill-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.bill-table th, 
+.bill-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.bill-table th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+  color: #444;
+}
+
+.bill-table td {
+  color: #555;
+}
+
+.bill-total {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  padding: 10px 0;
+}
+
+.payment-section {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.pay-btn {
+  background: #4CAF50;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.pay-btn:hover {
+  background: #43a047;
+  transform: scale(1.05);
+}
+
+.pay-btn.disabled {
+  background-color: gray !important;
+  cursor: not-allowed;
+}
+
+.empty-bill {
+  text-align: center;
+  color: #888;
+  font-size: 16px;
+  padding: 20px;
+}

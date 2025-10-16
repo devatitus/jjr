@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "name": "ELANEER NUNGU",
+    "price": "M-80,L-110,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (1).jpg"
+  },
+  {
+    "id": "2",
+    "name": "ELANEER MOSAMBI",
+    "price": "M-80,L-100,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (15).jpg"
+  },
+  {
+    "id": "3",
+    "name": "ELANEER APPLE",
+    "price": "M-80,L-110,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (16).jpg"
+  },
+  {
+    "id": "4",
+    "name": "ELANEER POMEGRANATE",
+    "price": "M-80,L-110,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (14).jpg"
+  },
+  {
+    "id": "5",
+    "name": "ELANEER GRAPE",
+    "price": "M-80,L-110,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (17).jpg"
+  },
+  {
+    "id": "6",
+    "name": "ELANEER PINEAPPLE",
+    "price": "M-80,L-110,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (13).jpg"
+  },
+  {
+    "id": "7",
+    "name": "ELANEER ORANGE",
+    "price": "M-80,L-110,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (18).jpg"
+  },
+  {
+    "id": "8",
+    "name": "ELANEER WATERMELON",
+    "price": "M-70,L-90,500ML-80,1L-160",
+    "image": "/images/postimg/jjr (12).jpg"
+  },
+  {
+    "id": "9",
+    "name": "ELANEER MUSKMELON",
+    "price": "M-70,L-90,500ML-80,1L-160",
+    "image": "/images/postimg/jjr (11).jpg"
+  },
+  {
+    "id": "10",
+    "name": "ELANEER FIG",
+    "price": "M-80,L-110,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (9).jpg"
+  },
+  {
+    "id": "11",
+    "name": "ELANEER LEMON",
+    "price": "M-60,L-80,500ML-70,1L-150",
+    "image": "/images/postimg/jjr (10).jpg"
+  },
+  {
+    "id": "12",
+    "name": "ELANEER BUTTER FRUIT",
+    "price": "M-90,L-110,500ML-100,1L-170",
+    "image": "/images/postimg/jjr (8).jpg"
+  },
+  {
+    "id": "13",
+    "name": "ELANEER AMLA",
+    "price": "M-80,L-100,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (7).jpg"
+  },
+  {
+    "id": "14",
+    "name": "ELANEER PAPAYA",
+    "price": "M-60,L-90,500ML-70,1L-140",
+    "image": "/images/postimg/jjr (6).jpg"
+  },
+  {
+    "id": "15",
+    "name": "ELANEER STRAWBERRY",
+    "price": "M-80,L-100,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (5).jpg"
+  },
+  {
+    "id": "16",
+    "name": "ELANEER MANGO",
+    "price": "M-80,L-100,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (4).jpg"
+  },
+  {
+    "id": "17",
+    "name": "ELANEER KIWI",
+    "price": "M-90,L-110,500ML-110,1L-170",
+    "image": "/images/postimg/jjr (3).jpg"
+  },
+  {
+    "id": "18",
+    "name": "ELANEER DRAGON",
+    "price": "M-80,L-100,500ML-90,1L-170",
+    "image": "/images/postimg/jjr (2).jpg"
+  }
+]

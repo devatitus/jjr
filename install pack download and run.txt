@@ -1,0 +1,27 @@
+install pack:
+
+node version check: node -v
+
+check if npm (which includes npx) is available: npm -v
+
+npx -v
+
+create react app file : npx create-react-app my-app
+
+install react doom: npm install react-router-dom
+
+npm install qrcode.react
+
+npm install uuid
+
+npm install lucide-react
+
+npm install react-leaflet leaflet
+
+npm start
+
+npx shadcn@latest add "https://icons.pqoqubbw.dev/c/home.json"
+
+
+
+
