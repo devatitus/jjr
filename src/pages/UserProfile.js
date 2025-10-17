@@ -197,7 +197,7 @@ const UserProfile = () => {
                 <div className="post-details">
                   <div className="post-header">
                     <input type="text" value={post.name} className="post-name" readOnly />
-                    <input type="text" value={`Rs:${post.price}`} className="post-price" readOnly />
+                    <input type="text" value={`Rs: ${post.price}`} className="post-price" readOnly />
                     {post.timing && <input type="text" value={post.timing} className="post-timing" readOnly />}
                   </div>
                 </div>
