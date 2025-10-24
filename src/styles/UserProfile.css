@@ -1,3 +1,8 @@
+body {
+  background-image: #333;
+  margin: 0;
+}
+
 
 .user-container {
   position: relative;
