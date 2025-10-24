@@ -1,4 +1,8 @@
-
+body {
+  background-color: #f0f2f5;
+  margin: 0;
+  font-family: sans-serif;
+}
 .user-container {
   position: relative;
   min-height: 100vh; /* full screen */
